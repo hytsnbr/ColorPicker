@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="alpha">Alpha</string>
+
+    <string name="result">Red: %1$d\nGreen: %2$d\nBlue: %3$d\nAlpha: %4$d</string>
+
+</resources>
